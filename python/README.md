@@ -37,3 +37,10 @@ Active the virtual enviroment and using
 then run de crawler
 
 `scrapy runspider springer.py`
+
+## Reference
+
+reference: [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials/como-fazer-crawling-em-uma-pagina-web-com-scrapy-e-python-3-pt)
+
+reference: [Like Geeks](https://likegeeks.com/downloading-files-using-python/)
+
